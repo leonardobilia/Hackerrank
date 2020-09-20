@@ -1,2 +1,2 @@
-# Birthday Cake Candles
-[https://www.hackerrank.com/challenges/birthday-cake-candles](https://www.hackerrank.com/challenges/birthday-cake-candles)
+# Staircase
+[https://www.hackerrank.com/challenges/staircase](https://www.hackerrank.com/challenges/staircase)

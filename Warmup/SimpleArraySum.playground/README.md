@@ -1,2 +1,2 @@
-# Staircase
-[https://www.hackerrank.com/challenges/staircase](https://www.hackerrank.com/challenges/staircase)
+# Simple Array Sum
+[https://www.hackerrank.com/challenges/simple-array-sum](https://www.hackerrank.com/challenges/simple-array-sum)

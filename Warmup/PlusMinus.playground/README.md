@@ -1,2 +1,2 @@
-# Birthday Cake Candles
-[https://www.hackerrank.com/challenges/birthday-cake-candles](https://www.hackerrank.com/challenges/birthday-cake-candles)
+# Plus Minus
+[https://www.hackerrank.com/challenges/plus-minus](https://www.hackerrank.com/challenges/plus-minus)

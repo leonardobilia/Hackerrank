@@ -1,2 +1,2 @@
-# Plus Minus
-[https://www.hackerrank.com/challenges/plus-minus](https://www.hackerrank.com/challenges/plus-minus)
+# Diagonal Difference
+[https://www.hackerrank.com/challenges/diagonal-difference](https://www.hackerrank.com/challenges/diagonal-difference)
